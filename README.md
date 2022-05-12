@@ -18,9 +18,9 @@
 **版本：3.0**  
     完成了main函数，编译后的文件（假设文件名：password.exe）可以在终端使用命行参数调用。  
     如：  
-> password  
-> password -5 -6 -7 -0
-> password /4 /5 -3 /1  
-> password -5 -6 -7 -0  
-> password -5 -6  
-> 甚至 password asdfg 等等。
+    > password  
+    > password -5 -6 -7 -0
+    > password /4 /5 -3 /1  
+    > password -5 -6 -7 -0  
+    > password -5 -6  
+    > 甚至 password asdfg 等等。
